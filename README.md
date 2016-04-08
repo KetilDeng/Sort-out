@@ -7,7 +7,6 @@
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
 - [简单、有层次的描述了iOS技术栈](https://github.com/liuminqian/iOSTechShare)
 - [最全的资源教程-前端涉及的所有知识体系](https://github.com/AutumnsWind/Front-end-tutorial)
-- [iOS核心动画高级技巧](https://zsisme.gitbooks.io/ios-/content/index.html)
 - [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
 
 ## 技术篇
