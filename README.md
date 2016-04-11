@@ -8,6 +8,8 @@
 - [简单、有层次的描述了iOS技术栈](https://github.com/liuminqian/iOSTechShare)
 - [最全的资源教程-前端涉及的所有知识体系](https://github.com/AutumnsWind/Front-end-tutorial)
 - [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+- [raywenderlich.com团队的Objective-C编码风格规范](https://github.com/raywenderlich/objective-c-style-guide)
+- [raywenderlich.com团队的Objective-C编码风格规范 - 中文翻译](http://www.csdn.net/article/2015-06-01/2824818-objective-c-style-guide)
 
 ## 技术篇
 - [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
