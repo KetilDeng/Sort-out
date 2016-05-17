@@ -31,6 +31,16 @@
 ## React Native
 - [React Native 中文网](http://reactnative.cn/)
 
+## 书籍
+#### Stackoverflow评选的10本最有影响力IT图书：
+- 《Code Complete (2nd Ed) by Steve McConnell》，中文版《代码大全（第二版）》
+- 《The Pragmatic Programmer》，中文版《程序员修炼之道》
+- 《Structure and Interpretation of Computer Programs》，中文版《计算机程序的构造和解释》
+- 《The C Programming Language》，中文版《C程序设计语言》
+- 《Refactoring: Improving the Design of Existing Code》，中文版《重构：改善既有代码的设计》
+- 《Introduction to algorithms》，中文版《算法导论》
+- 《The Mythical Man-Month》，中文版《人月神话
+
 
 ## 扯氮集
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
