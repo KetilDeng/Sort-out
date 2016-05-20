@@ -1,4 +1,4 @@
-# 整理一些学习资料
+# 闲暇整理学习资料
 
 ## iOS篇
 - [iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS)
@@ -26,7 +26,7 @@
 - [关东升的博客 -【从零开始学swift】](http://blog.csdn.net/tonny_guan/article/list/1)
 - [Let's Swift](http://letsswift.com/)
 - [Swift 语言指南](http://dev.swiftguide.cn/)
-- [Swift 语言指南 github地址](https://github.com/ipader/SwiftGuide)
+- [Swift 语言指南 github地址 (这个真的是应有尽有)](https://github.com/ipader/SwiftGuide)
 
 ## React Native
 - [React Native 中文网](http://reactnative.cn/)
