@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 扯淡
+=======
+# 闲暇整理学习资料
+>>>>>>> fea7aaacdd0a8a6c3567a4f5ecd13f52dbf6caf2
 
 ## iOS篇
 - [iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS)
@@ -22,20 +26,27 @@
 - [Introduction to MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
 - [MVVM奇葩说](http://www.olinone.com/?p=510)
 - [MVVM 介绍](http://objccn.io/issue-13-1/)
+<<<<<<< HEAD
 - [调试](https://github.com/huang303513/Debug-Instruments)
+=======
+>>>>>>> fea7aaacdd0a8a6c3567a4f5ecd13f52dbf6caf2
 
 ## swift篇
 - [关东升的博客 -【从零开始学swift】](http://blog.csdn.net/tonny_guan/article/list/1)
 - [Let's Swift](http://letsswift.com/)
 - [Swift 语言指南](http://dev.swiftguide.cn/)
 - [Swift 语言指南 github地址 (这个真的是应有尽有)](https://github.com/ipader/SwiftGuide)
+<<<<<<< HEAD
 - [Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md#interfaces)
 - [Swift 文章精选](https://github.com/ipader/SwiftGuide/blob/master/Featured-Articles.md)
+=======
+>>>>>>> fea7aaacdd0a8a6c3567a4f5ecd13f52dbf6caf2
 
 ## React Native
 - [React Native 中文网](http://reactnative.cn/)
 
 ## 书籍
+<<<<<<< HEAD
 #### 最有影响力IT图书：
 - 《代码大全（第二版）》
 - 《程序员修炼之道》
@@ -45,6 +56,16 @@
 - 《算法导论》
 - 《人月神话》
 - 《黑客与画家》
+=======
+#### Stackoverflow评选的10本最有影响力IT图书：
+- 《Code Complete (2nd Ed) by Steve McConnell》，中文版《代码大全（第二版）》
+- 《The Pragmatic Programmer》，中文版《程序员修炼之道》
+- 《Structure and Interpretation of Computer Programs》，中文版《计算机程序的构造和解释》
+- 《The C Programming Language》，中文版《C程序设计语言》
+- 《Refactoring: Improving the Design of Existing Code》，中文版《重构：改善既有代码的设计》
+- 《Introduction to algorithms》，中文版《算法导论》
+- 《The Mythical Man-Month》，中文版《人月神话
+>>>>>>> fea7aaacdd0a8a6c3567a4f5ecd13f52dbf6caf2
 
 
 ## 扯氮集

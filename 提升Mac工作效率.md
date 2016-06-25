@@ -38,6 +38,8 @@ Command-Option-Esc            | 强制退出：选择要强制退出的应用
 Command-Shift-Option-Esc      | 3秒钟可仅强制最前端的应用退出
 control–空格键                 | Spotlight显示或隐藏 Spotlight 搜索栏
 Command-Shift- ~              | 切换窗口：切换到最前端应用中下一个最近使用的窗口
+Command-Shift-3               | 屏幕快照：拍摄整个屏幕的屏幕快照
+Command-,  				       | 偏好设置：打开最前端应用的偏好设置
 
 ##### 睡眠、注销和关机快捷键:
 快捷键                                           | 描述 
@@ -157,7 +159,7 @@ Command-Control-T		                     | 将所选项添加到边栏（OS X Mav
 Command-Option-S		                     | 隐藏或显示 Finder 窗口中的边栏。
 Command-J		                     | 调出“显示”选项。
 Command-K		                     | 打开“连接服务器”窗口。
-Command-N		                     | 打开一个新的 Finder 窗口。
+Command-N		                     | 打开一个新的 Finder 窗口。 
 Command-Option-N		                     | 新建智能文件夹。
 Command-R		                     | 显示所选替身的原始文件。
 Command-T		                     | 在当前 Finder 窗口中打开单个标签时显示或隐藏标签栏。
@@ -210,14 +212,12 @@ open关键字/‘单引号/空格             | 查询文件或者文件夹
 find关键字                         | 查询文件或者文件夹的位置
 in关键字                           | 查找文本文件内含有查询文字的文件
 
+
 ### git
 #### 链接
 - [Git](https://git-scm.com/)
 - [廖雪峰git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [猴子都能懂的git](http://backlogtool.com/git-guide/cn/)
-
-
-
 
 #### 常用git命令：
 ##### git stash
