@@ -211,6 +211,11 @@ find关键字                         | 查询文件或者文件夹的位置
 in关键字                           | 查找文本文件内含有查询文字的文件
 
 ### git
+#### 链接
+- [Git](https://git-scm.com/)
+- [廖雪峰git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [猴子都能懂的git](http://backlogtool.com/git-guide/cn/)
+
 #### 常用git命令：
 ##### git stash
 - git stash 储藏工作区 (暂存区有内容也将被储藏)
@@ -226,15 +231,17 @@ in关键字                           | 查找文本文件内含有查询文字�
 ##### git merge
 - git merge branch_name 快速合并
 - git merge --no-ff -m “提交的描述” branch_name 普通合并
+
 ##### git reset
 - git reset —hard commit_id 版本穿梭
+
 ##### 合并多个 commit
 - git rebase -i commit_id 可以看到，reabse -i的作用是用来编辑所有的commit，也就是在push到远程分支之前，我们可以“为所欲为”，可以看到有多个命令可以使用。
-p, pick = 使用此commit。(p是pick命令的缩写，两种方式均支持)
-r, reword = 使用此commit， 编辑commit messagee,
-e, edit = 使用此commit，并且把commit信息放在第一个，使用commit --amend来修改commit信息
-s, squash = 使用此commit，但是合并到前一个commit中去,
-f, fixup = 和squash类似，但是放弃此commit的message
+							p, pick = 使用此commit。(p是pick命令的缩写，两种方式均支持)
+							r, reword = 使用此commit， 编辑commit messagee,
+							e, edit = 使用此commit，并且把commit信息放在第一个，使用commit --amend来修改commit信息
+							s, squash = 使用此commit，但是合并到前一个commit中去,
+							f, fixup = 和squash类似，但是放弃此commit的message
 
 - 接着会进入vi编辑模式，按需要在commit_id前修改命令（主要：pick或（p）的意思是要会执行这个commit；squash或（s）的意思是这个 commit 会被合并到前一个commit）
 - :wq 退出vi编辑模式后会看到commit message 的编辑界面。 非注释部分就是合并的commit message, 我们要做的就是将这些commit message修改成新的 commit message。
@@ -248,6 +255,7 @@ f, fixup = 和squash类似，但是放弃此commit的message
 - 隐藏：defaults write com.apple.finder AppleShowAllFiles -bool false
 - 隐藏：defaults write com.apple.finder AppleShowAllFiles false;killall Finder
 - 显示：defaults write com.apple.finder AppleShowAllFiles true;killall Finder
+
 #### 链接
 - [Safari 9 (El Capitan): Safari 键盘及其他快捷键](https://support.apple.com/kb/PH21483?locale=zh_CN&viewlocale=zh_CN)
 - [Safari 8 (Yosemite) 的快捷键](https://support.apple.com/kb/PH19282?locale=zh_CN&viewlocale=zh_CN)
