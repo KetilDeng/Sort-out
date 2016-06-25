@@ -242,7 +242,6 @@ f, fixup = 和squash类似，但是放弃此commit的message
 - 注意事项：如果这个过程中有操作错误，可以使用 git rebase --abort来撤销修改，回到没有开始操作合并之前的状态。
 
 
-
 ### 其它
 #### Mac下文件的隐藏和显示
 - 显示：defaults write com.apple.finder AppleShowAllFiles -bool true
