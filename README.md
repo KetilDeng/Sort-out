@@ -14,6 +14,11 @@
 ### Core Animation
 - [iOS核心动画高级技巧](https://zsisme.gitbooks.io/ios-/content/index.html)
 
+### RunLoop
+- [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
+- [视频: iOS线下分享《RunLoop》by 孙源@sunnyxx](http://v.youku.com/v_show/id_XODgxODkzODI0.html)
+
+
 ### 编程规范、艺术
 - [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn#%E5%B1%9E%E6%80%A7%E5%AE%9A%E4%B9%89)
 - [raywenderlich.com团队的Objective-C编码风格规范 - 中译](http://www.csdn.net/article/2015-06-01/2824818-objective-c-style-guide)
@@ -53,9 +58,14 @@
 ## React Native
 - [React Native 中文网](http://reactnative.cn/)
 
-## 扯氮集
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
-- [扯氮集](http://weiwuhui.com/)
+## 必看博客
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [魏武挥](http://weiwuhui.com/)
+- [喵神~王巍](https://onevcat.com/#blog)
+- [唐巧](http://blog.devtang.com/)
+- [郭曜源](http://blog.ibireme.com/)
+- [孙源](http://blog.sunnyxx.com/)
+- [NSHipster 中文版 (文章出自Mattt 大神)](http://nshipster.cn/)
 
 ## 关于Linux、Unix
 - [Unix命令大全](http://wiki.ubuntu.org.cn/Unix%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8)
@@ -76,5 +86,6 @@
 ## 其它
 - [i春秋学院](http://www.ichunqiu.com/main)
 - [UI设计第一站](http://www.ui001.com/)
+- [UI中国](http://www.ui.cn/)
 - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 - [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)

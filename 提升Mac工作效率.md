@@ -1,5 +1,7 @@
 ## Mac党提升工作效率
 
+### Mac 开发配置手册
+- [Mac 开发配置手册](https://www.gitbook.com/book/aaaaaashu/mac-dev-setup/details)
 
 ### Mac快捷工具
 - **应用切换工具 Snap （屌屌屌 免费）**
