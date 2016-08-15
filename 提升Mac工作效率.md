@@ -218,6 +218,7 @@ in关键字                           | 查找文本文件内含有查询文字�
 ### git
 #### 链接
 - [Git](https://git-scm.com/)
+- [Git - Book](https://git-scm.com/book/zh/v2)
 - [廖雪峰git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [猴子都能懂的git](http://backlogtool.com/git-guide/cn/)
 
@@ -243,9 +244,14 @@ in关键字                           | 查找文本文件内含有查询文字�
 - git merge --no-ff -m “提交的描述” branch_name 普通合并
 
 ##### git reset
-- git reset —hard commit_id 版本穿梭
+- git reset commit_id 版本穿梭（保留此commit_id之后的修改）
+- git reset —hard commit_id 版本穿梭(撤销此commit_id之后的修改)
 
-##### 合并多个 commit
+##### git push
+- git push origin branch_name -f 直接覆盖远程branch_name
+
+##### git rebase
+- git rebase branch_name 
 - git rebase -i commit_id 可以看到，reabse -i的作用是用来编辑所有的commit，也就是在push到远程分支之前，我们可以“为所欲为”，可以看到有多个命令可以使用。
 							
 							p, pick = 使用此commit。(p是pick命令的缩写，两种方式均支持)

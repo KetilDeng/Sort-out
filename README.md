@@ -13,6 +13,8 @@
 
 ### Core Animation
 - [iOS核心动画高级技巧](https://zsisme.gitbooks.io/ios-/content/index.html)
+- [iOS视图控制器转场详解](https://github.com/seedante/iOS-Note/wiki/ViewController-Transition)
+- [交互式动画](https://github.com/seedante/iOS-Note/wiki/Interactive-Animations)
 
 ### RunLoop
 - [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
@@ -23,6 +25,12 @@
 - [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn#%E5%B1%9E%E6%80%A7%E5%AE%9A%E4%B9%89)
 - [raywenderlich.com团队的Objective-C编码风格规范 - 中译](http://www.csdn.net/article/2015-06-01/2824818-objective-c-style-guide)
 - [raywenderlich.com团队的Objective-C编码风格规范](https://github.com/raywenderlich/objective-c-style-guide)
+
+#### Git
+- [git](https://git-scm.com/)
+- [git book](https://git-scm.com/book/zh/v2)
+- [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [猴子都懂的git](https://backlogtool.com/git-guide/tw/)
 
 ### 调试
 - [调试](https://github.com/huang303513/Debug-Instruments)
