@@ -9,6 +9,7 @@
 
 ##### 面试
 - [面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [iOS 面试小灶直播 - 简历、面试题、进阶 - 孙源Sunny](http://m.quzhiboapp.com/?liveId=311#!/intro/115)
 - [面试 iOS 开发时可以问的一些问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
 
 
@@ -20,6 +21,7 @@
 - [组件化架构漫谈](http://www.cocoachina.com/ios/20160929/17610.html)
 - [iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
 - [iOS应用架构谈 组件化方案](http://casatwy.com/iOS-Modulization.html)
+- [在现有工程中实施基于CTMediator的组件化方案](http://casatwy.com/modulization_in_action.html)
 
 
 ##### 性能优化
@@ -39,12 +41,17 @@
 - [禅与 Objective-C 编程艺术](https://github.com/oa414/objc-zen-book-cn#%E5%B1%9E%E6%80%A7%E5%AE%9A%E4%B9%89)
 - [raywenderlich.com团队的Objective-C编码风格规范 - 中译](http://www.csdn.net/article/2015-06-01/2824818-objective-c-style-guide)
 - [raywenderlich.com团队的Objective-C编码风格规范](https://github.com/raywenderlich/objective-c-style-guide)
+- [raywenderlich.com团队的Objective-C编码风格规范 github地址](https://github.com/raywenderlich/objective-c-style-guide)
+- [Robots & Pencils Objective-C Style Guide](https://github.com/RobotsAndPencils/objective-c-style-guide)
+- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
+- [GitHub objective-c-style-guide](https://github.com/github/objective-c-style-guide)
 
 ##### Git
 - [git](https://git-scm.com/)
 - [git book](https://git-scm.com/book/zh/v2)
 - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 - [猴子都懂的git](https://backlogtool.com/git-guide/tw/)
+- [为设计师而作的GitHub的快速学习教程](http://www.ui.cn/detail/20957.html)
 
 ##### 调试
 - [调试](https://github.com/huang303513/Debug-Instruments)

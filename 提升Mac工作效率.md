@@ -11,10 +11,9 @@
 ### Mac 快捷键
 - [Mac键盘快捷键官方](https://support.apple.com/zh-cn/HT201236)
 
-
 ##### 剪切、拷贝、粘贴和其他常用快捷键:
 
-快捷键                         | 描述 
+快捷键                         | 描述
 ------------------------------| -----
 **Command-H**                 | **隐藏最前端应用的窗口**
 **Command-M**                 | **将最前端的窗口最小化至 Dock**
@@ -44,7 +43,7 @@ Command-Shift-3               | 屏幕快照：拍摄整个屏幕的屏幕快照
 Command-,  				       | 偏好设置：打开最前端应用的偏好设置
 
 ##### 睡眠、注销和关机快捷键:
-快捷键                                           | 描述 
+快捷键                                           | 描述
 ----------------------------------------------- | -----
 电源按钮                                          | 轻按可打开 Mac 或将 Mac 从睡眠状态唤醒。当 Mac 处于唤醒状态时，按住此按钮 1.5 秒钟会显示一个对话框，询问您是要重新启动、睡眠还是关机。如果您不想等待 1.5 秒钟，请按下 Control–电源按钮或Control–介质推出键 。按住此按钮 5 秒钟会强制 Mac 关机。
 Command–Control–电源按钮	                          | 强制 Mac 重新启动。
@@ -78,7 +77,7 @@ Command-Shift-Option-Q	                          | 立即注销您的 OS X 用�
 **Control-A**            | **移至行或段落的开头**
 **Control-E**              | 	**移至行或段落的末尾**
 **Command–Shift–问号 (?)**	     | **打开“帮助”菜单**
-Command-B            | 以粗体显示所选文本，或者打开或关闭粗体显示功能。 
+Command-B            | 以粗体显示所选文本，或者打开或关闭粗体显示功能。
 Command-I	          | 以斜体显示所选文本，或者打开或关闭斜体显示功能。
 Command-U	          | 对所选文本加下划线，或者打开或关闭加下划线功能。
 Command-T	          | 显示或隐藏“字体”窗口.
@@ -108,7 +107,7 @@ Control-T	          | 将插入点后面的字符与插入点前面的字符交�
 Command–左花括号 ({)	     | 左对齐。
 Command–右花括号 (})	     | 右对齐。
 Command–Shift–竖线 (|)	     | 居中对齐。
-Command-Option-F	     | 前往搜索栏。 
+Command-Option-F	     | 前往搜索栏。
 Command-Option-T	     | 显示或隐藏应用中的工具栏。
 Command-Option-C	     | 拷贝样式：将所选项的格式设置拷贝到剪贴板。
 Command-Option-V	     | 粘贴样式：将拷贝的样式应用到所选项。
@@ -138,7 +137,7 @@ Command–等号 (=)            | 可执行相同的功能。
 **Command-Y**	                     | **使用“快速查看”预览所选文件**
 **Command-1**		                     | **以图标方式显示 Finder 窗口中的项目**
 **Command-2**		                     | **以列表方式显示 Finder 窗口中的项目**
-**Command-3**		                     | **以分栏方式显示 Finder 窗口中的项目** 
+**Command-3**		                     | **以分栏方式显示 Finder 窗口中的项目**
 **Command-4**		                     | **以 Cover Flow 方式显示 Finder 窗口中的项目**
 **Command–左中括号 ([)**		                     | **前往上一文件夹**
 **Command–右中括号 (])**                     | 	**前往下一文件夹**
@@ -161,7 +160,7 @@ Command-Control-T		                     | 将所选项添加到边栏（OS X Mav
 Command-Option-S		                     | 隐藏或显示 Finder 窗口中的边栏。
 Command-J		                     | 调出“显示”选项。
 Command-K		                     | 打开“连接服务器”窗口。
-Command-N		                     | 打开一个新的 Finder 窗口。 
+Command-N		                     | 打开一个新的 Finder 窗口。
 Command-Option-N		                     | 新建智能文件夹。
 Command-R		                     | 显示所选替身的原始文件。
 Command-T		                     | 在当前 Finder 窗口中打开单个标签时显示或隐藏标签栏。
@@ -187,7 +186,7 @@ Option–调高音量		                     | 打开“声音”偏好设置。�
 拖移时按 Command-Option		                     | 为拖移的项目制作替身。拖移项目时指针会随之变化。
 Option-点按开合三角		                     | 打开所选文件夹内的所有文件夹。此快捷键仅在列表视图中有效。
 Command-点按窗口标题		                     | 查看包含当前文件夹的文件夹。
- 
+
 
 ##### terminal
 
@@ -224,16 +223,16 @@ Command-点按窗口标题		                     | 查看包含当前文件夹�
 ⌘ + Shift + Delete					|打开“清除浏览数据”选项
 ⌘ + Shift + m						|使用其他帐户登录或进入隐身模式
 输入搜索引擎名称并按 Tab 键			|使用其他搜索引擎进行搜索
-⌘ + l								|跳转到地址栏	
+⌘ + l								|跳转到地址栏
 ⌘ + Option + j						|打开 JavaScript 控制台
 ⌘ + d								|将当前网页保存为书签
 ⌘ + Ctrl + f						|开启或关闭全屏模式
 Shift + 空格键						|向上滚动网页，一次一个屏幕
 空格键								|向下滚动网页，一次一个屏幕
-⌘ + Option + f						|搜索网络	
+⌘ + Option + f						|搜索网络
 按住 ⌘ 键的同时点击链接				|在新的后台标签页中打开链接
 按住 ⌘ + Shift 键的同时点击链接		|打开链接，并跳转到该链接
-按住 Shift 键的同时点击链接			|在新窗口中打开链接	
+按住 Shift 键的同时点击链接			|在新窗口中打开链接
 
 
 
@@ -258,6 +257,7 @@ in关键字                           | 查找文本文件内含有查询文字�
 #### 常用git命令：
 ##### git stash
 - git stash 储藏工作区 (暂存区有内容也将被储藏)
+- git stash save "注释"
 - git stash list 查看现有储藏
 - git stash pop 重新应用最近的一次储藏，并移除栈上的储藏
 - git stash apply stash@{2} 重新应用某次储藏。
@@ -268,7 +268,7 @@ in关键字                           | 查找文本文件内含有查询文字�
 - git stash show -p stash@{0} | git apply -R 取消某次储藏
 
 ##### 撤销
-- git checkout -- <file> 撤销文件file的修改，回到file的最近一次commit或add
+- git checkout -- 'file' 撤销文件file的修改，回到file的最近一次commit或add
 - git checkout -- . 撤销全部修改，回到最近一次commit或add
 
 
@@ -279,21 +279,22 @@ in关键字                           | 查找文本文件内含有查询文字�
 ##### git reset
 - git reset commit_id 版本穿梭（保留此commit_id之后的修改）
 - git reset --hard commit_id 版本穿梭(撤销此commit_id之后的修改)(危险)
-- git reset HEAD <file> 撤销<file>的暂存
+- git reset HEAD 'file' 撤销'file'的暂存
 
 ##### git push
 - git push origin branch_name -f 直接覆盖远程branch_name
 
 ##### git rebase
-- git rebase branch_name 
+- git rebase branch_name
+- git rebase --abort 终止rebase，回到操作前
 - git rebase -i commit_id 可以看到，reabse -i的作用是用来编辑所有的commit，也就是在push到远程分支之前，我们可以“为所欲为”，可以看到有多个命令可以使用。
-							
+
 							p, pick = 使用此commit。(p是pick命令的缩写，两种方式均支持)
 							r, reword = 使用此commit， 编辑commit messagee,
 							e, edit = 使用此commit，并且把commit信息放在第一个，使用commit --amend来修改commit信息
 							s, squash = 使用此commit，但是合并到前一个commit中去,
 							f, fixup = 和squash类似，但是放弃此commit的message
-							
+
 
 - 接着会进入vi编辑模式，按需要在commit_id前修改命令（主要：pick或（p）的意思是要会执行这个commit；squash或（s）的意思是这个 commit 会被合并到前一个commit）
 - :wq 退出vi编辑模式后会看到commit message 的编辑界面。 非注释部分就是合并的commit message, 我们要做的就是将这些commit message修改成新的 commit message。
@@ -304,23 +305,23 @@ in关键字                           | 查找文本文件内含有查询文字�
 - glog
 - git log --stat 查看每次提交的统计
 - git log -p 查看每次提交的差异
-- git log -p -<n> 查看最近n次提交的差异
+- git log -p -'n' 查看最近n次提交的差异
 - git log --pretty=oneline 单行显示历史提交
 
 ##### git commit
 - git commit --amend 重新提交(常用于修改描述)
 
 ##### git remote
-- git remote show <远程仓库名(默认是origin)>  这个命令列出了当你在特定的分支上执行 git push 会自动地推送到哪一个远程分支。 它也同样地列出了哪些远程分支不在你的本地，哪些远程分支已经从服务器上移除了，还有当你执行 git pull 时哪些分支会自动合并。   
+- git remote show '远程仓库名(默认是origin)'  这个命令列出了当你在特定的分支上执行 git push 会自动地推送到哪一个远程分支。 它也同样地列出了哪些远程分支不在你的本地，哪些远程分支已经从服务器上移除了，还有当你执行 git pull 时哪些分支会自动合并。   
 
 ##### git tag
-- git tag <tagname> 在当前分支最新的commit上打普通标签
-- git tag -a <tagname> -m '描述'  打附注标签
-- git tag <tagname> <commitid> 指定commitid打普通标签
-- git tag -a <tagname> <commitid> 指定commitid打附注标签
+- git tag 'tagname' 在当前分支最新的commit上打普通标签
+- git tag -a 'tagname' -m '描述'  在当前分支最新的commit上打附注标签
+- git tag 'tagname' 'commitid' 指定commitid打普通标签
+- git tag -a 'tagname' -m '描述' 'commitid' 指定commitid打附注标签
 - git tag 查看当前所有标签
-- git show <tagname> 查看标签信息
-- git push origin <tagname> 推送单个标签到远程仓库
+- git show 'tagname' 查看标签信息
+- git push origin 'tagname' 推送单个标签到远程仓库
 - git push origin --tags 推送所有不在远程仓库的标签到远程仓库
 
 ##### other
