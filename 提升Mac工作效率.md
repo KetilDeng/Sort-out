@@ -49,8 +49,6 @@
 - git stash drop 移除最近的一次储藏
 - git stash drop stash@{2} 移除某次储藏
 - git stash apply --index  如果你的某次储藏，在工作区有修改，在暂存区也有暂存的内容，你使用git stash apply的时候，暂存区的内容将被恢复到工作区，这不是你想要的，那么你可以使用 git stash apply --index  这样，暂存区的内容还在暂存区，工作区的内容恢复到储藏前状态，这是你这次储藏的最原始的状态。
-- git stash show -p | git apply -R 取消最近一次储藏
-- git stash show -p stash@{0} | git apply -R 取消某次储藏
 
 ##### 撤销
 - git checkout -- 'file' 撤销文件file的修改，回到file的最近一次commit或add

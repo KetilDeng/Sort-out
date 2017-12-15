@@ -10,6 +10,7 @@
 - [面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)
 - [iOS 面试小灶直播 - 简历、面试题、进阶 - 孙源Sunny](http://m.quzhiboapp.com/?liveId=311#!/intro/115)
 - [面试 iOS 开发时可以问的一些问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
+- [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
 
 
 ##### iOS组件化
@@ -85,6 +86,20 @@
 
 ##### React Native
 - [React Native 中文网](http://reactnative.cn/)
+
+##### 小程序
+- [小程序官方开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=2017118)
+- [CSS参考手册](http://www.w3school.com.cn/cssref/index.asp)
+- [HTML参考手册](http://www.w3school.com.cn/tags/index.asp)
+- [小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [小程序开源项目汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+- [30 分钟学会 Flex 布局](https://zhuanlan.zhihu.com/p/25303493)
+
+##### 学习网站
+- [菜鸟教程](http://www.runoob.com/)
+- [W3school](http://www.w3school.com.cn/index.html)
 
 ##### 博客/网站
 - [孙源](http://blog.sunnyxx.com/)
