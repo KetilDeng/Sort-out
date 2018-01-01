@@ -125,6 +125,52 @@
 - ndd 删除n行
 - u 恢复最后一条指令前的结果
 
+#### brew && brew cask
+##### brew主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发。brew偏管理第三方库和命令行工具方面的东东。
+##### brew cask主要用来下载一些带界面的应用软件，下载好后会自动安装，并能在mac中直接运行使用。brew cask可以看作是苹果官方app store的补充。
+- brew --help 简洁命令帮助
+- man brew 完整命令帮助
+- brew install git 安装软件包(这里是示例安装的Git版本控制)
+- brew uninstall git 卸载软件包
+- brew search git 搜索软件包
+- brew list 显示已经安装的所有软件包
+- brew update 同步远程最新更新情况，对本机已经安装并有更新的软件用*标明
+- brew outdated 查看已安装的哪些软件包需要更新
+- brew upgrade git 更新单个软件包
+- brew info git 查看软件包信息
+- brew home git 访问软件包官方站
+- brew cleanup 清理所有已安装软件包的历史老版本
+- brew cleanup git 清理单个已安装软件包的历史版本
+- brew cask search               # 列出所有可以被安装的软件
+- brew cask search name     # 查找所有和 name相关的应用
+- brew cask install name       # 下载安装软件
+- brew cask uninstall name   # 卸载软件
+- brew cask info app             # 列出应用的信息
+- brew cask list                      # 列出本机安装过的软件列表
+- brew cask cleanup              # 清除下载的缓存以及各种链接信息
+- brew cask uninstall name && brew cask install name ＃更新程序 （目前homebrew-cask 并没有命令直接更新已安装的软件，软件更新主要是通过软件自身的完成更新）
+
+##### nvm (Node Version Manager) 即 Nodejs 版本管理器，它让我们能方便的对 Nodejs 的版本进行切换。
+- nvm install 4.0  #安装4.0版本的Node
+- nvm use 4.0 #使用4.0版本的Node
+- nvm alias default 4.0 #设置默认的版本（当前使用版本和默认版本不同经常出现错误）
+- nvm ls #查看本机安装的所有的 Node, 并高亮当前使用的版本
+- nvm install node 安装最新版 Node
+- nvm install iojs 安装最新版 iojs
+- nvm install unstable 安装最新不稳定版本的 Node
+- nvm install stable 安装最新版本的 Node
+
+##### npm（Node Package Manager）即node包管理器，是Node.js默认的、以JavaScript编写的软件包管理系统。
+- npm install ModuleName  #本地安装 某个Node.js 模块
+- npm install ModuleName -g  #全局安装 某个Node.js 模块
+- npm uninstall ModuleName  #卸载 某个Node.js 模块
+- npm list -g #查看所有全局安装的模块
+- npm list ModuleName #查看某个模块的版本号
+-  npm update ModuleName  #把当前目录下node_modules子目录里边的对应模块更新至最新版本
+- npm update ModuleName -g  #把全局安装的对应命令行程序更新至最新版
+- npm search ModuleName   #搜索模块
+
+
 ##### other
 - lipo -info libjpush-ios-2.1.9.a  (libjpush-ios-2.1.9.a 极光的静态库)查看某个静态库支持的指令集。（要进入到静态库所在的目录，再使用该命令）
 - du sh *  （执行pod setup 时，想查看进度，就进入 .cocoapods 目录中，执行该命令）
