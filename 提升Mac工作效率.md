@@ -1,20 +1,20 @@
-## Mac党提升工作效率
+# Mac党提升工作效率
 
-### Mac 开发配置手册
+## Mac 开发配置手册
 - [Mac 开发配置手册](https://www.gitbook.com/book/aaaaaashu/mac-dev-setup/details)
 
-### Mac快捷工具
+## Mac快捷工具
 - **应用切换工具 Snap（免费）**
 - **应用切换工具 Manico（付费）**
 - **自定义手势工具 BetterTouchTool（付费）**
 
-### Mac 快捷键
+## Mac 快捷键
 - [Mac键盘快捷键官方](https://support.apple.com/zh-cn/HT201236)
 
-### Google 快捷键
+## Google 快捷键
 - [Google 快捷键](https://support.google.com/chrome/answer/157179?hl=zh-Hans)
 
-### terminal
+## terminal
 
 快捷键                            |        描述
 ---------------------------------|-----------
@@ -31,8 +31,7 @@
 **输入开头命令后 按 ⌘ + ;**            | **自动列出输入过的命令**
 
 
-### git
-#### 链接
+## git
 - [Git](https://git-scm.com/)
 - [Git - Book](https://git-scm.com/book/zh/v2)
 - [有关 git 的学习资料](https://github.com/xirong/my-git)
@@ -109,7 +108,7 @@
 - git tag -d <tagname> 删除tag
 - git push origin --delete tag <tagname> 删除远程tag
 
-#### vim
+## vim
 - o 行首
 - $ 行末
 - H 视窗第一列
@@ -125,7 +124,7 @@
 - ndd 删除n行
 - u 恢复最后一条指令前的结果
 
-#### brew && brew cask
+## brew && brew cask
 ##### brew主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发。brew偏管理第三方库和命令行工具方面的东东。
 ##### brew cask主要用来下载一些带界面的应用软件，下载好后会自动安装，并能在mac中直接运行使用。brew cask可以看作是苹果官方app store的补充。
 - brew --help 简洁命令帮助
@@ -150,7 +149,8 @@
 - brew cask cleanup              # 清除下载的缓存以及各种链接信息
 - brew cask uninstall name && brew cask install name ＃更新程序 （目前homebrew-cask 并没有命令直接更新已安装的软件，软件更新主要是通过软件自身的完成更新）
 
-##### nvm (Node Version Manager) 即 Nodejs 版本管理器，它让我们能方便的对 Nodejs 的版本进行切换。
+## nvm 
+##### (Node Version Manager) 即 Nodejs 版本管理器，它让我们能方便的对 Nodejs 的版本进行切换。
 - nvm install 4.0  #安装4.0版本的Node
 - nvm use 4.0 #使用4.0版本的Node
 - nvm alias default 4.0 #设置默认的版本（当前使用版本和默认版本不同经常出现错误）
@@ -160,7 +160,8 @@
 - nvm install unstable 安装最新不稳定版本的 Node
 - nvm install stable 安装最新版本的 Node
 
-##### npm（Node Package Manager）即node包管理器，是Node.js默认的、以JavaScript编写的软件包管理系统。
+## npm
+#####（Node Package Manager）即node包管理器，是Node.js默认的、以JavaScript编写的软件包管理系统。
 - npm install ModuleName  #本地安装 某个Node.js 模块
 - npm install ModuleName -g  #全局安装 某个Node.js 模块
 - npm uninstall ModuleName  #卸载 某个Node.js 模块
@@ -171,22 +172,16 @@
 - npm search ModuleName   #搜索模块
 
 
-##### other
+## other
 - lipo -info libjpush-ios-2.1.9.a  (libjpush-ios-2.1.9.a 极光的静态库)查看某个静态库支持的指令集。（要进入到静态库所在的目录，再使用该命令）
 - du sh *  （执行pod setup 时，想查看进度，就进入 .cocoapods 目录中，执行该命令）
 - security cms -D -i embedded.mobileprovision (查看描述文件mobileprovision信息)
 - eval $(ssh-agent) 运行 ssh-agent
 - ssh-add ~/.ssh/xxx  添加私钥
-
-
-### 其它
-#### Mac下文件的隐藏和显示
-- 显示：defaults write com.apple.finder AppleShowAllFiles -bool true
-- 隐藏：defaults write com.apple.finder AppleShowAllFiles -bool false
 - 隐藏：defaults write com.apple.finder AppleShowAllFiles false;killall Finder
 - 显示：defaults write com.apple.finder AppleShowAllFiles true;killall Finder
 
-#### 链接
+## 链接
 - [Safari 9 (El Capitan): Safari 键盘及其他快捷键](https://support.apple.com/kb/PH21483?locale=zh_CN&viewlocale=zh_CN)
 - [Safari 8 (Yosemite) 的快捷键](https://support.apple.com/kb/PH19282?locale=zh_CN&viewlocale=zh_CN)
 - [Mac 启动时可以使用的快捷键](https://support.apple.com/zh-cn/HT201255)
