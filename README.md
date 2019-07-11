@@ -15,11 +15,13 @@ iOS组件化
 
 - [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
 
-Core Animation
+动画
 
 - [iOS核心动画高级技巧](https://zsisme.gitbooks.io/ios-/content/index.html)
 - [iOS视图控制器转场详解](https://github.com/seedante/iOS-Note/wiki/ViewController-Transition)
 - [交互式动画](https://github.com/seedante/iOS-Note/wiki/Interactive-Animations)
+- [iOS动画和特效专题](http://liuyanwei.jumppo.com/2015/10/29/iOS-animation-0.html)
+- [iOS UIView Animation - Transition](http://www.devtalking.com/articles/uiview-transition-animation/)
 
 RunLoop
 
@@ -61,6 +63,7 @@ MVVM
 - [iOS 面试小灶直播 - 简历、面试题、进阶 - 孙源Sunny](http://m.quzhiboapp.com/?liveId=311#!/intro/115)
 - [面试 iOS 开发时可以问的一些问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
 - [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
+- [小专栏 iOS面试指南](https://xiaozhuanlan.com/ios-swift-interview?rel=5262714674)
 
 ---
 # 编程艺术、规范
@@ -100,8 +103,26 @@ MVVM
 - [React Native](http://facebook.github.io/react-native/)
 - [facebook/react-native](https://github.com/facebook/react-native)
 - [React Native 中文网](http://reactnative.cn/)
+- [论坛 - React Native中文社区](http://bbs.reactnative.cn/)
 - [React Native 学习资源精选仓库](https://github.com/wabg/awesome-react-native)
 - [React Native 开发之 IDE 选型和配置](http://www.infoq.com/cn/articles/react-native-ide)
+- [Redux](http://cn.redux.js.org/)
+- [React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/index.html)
+- [React Native入门（第一阶段）](https://juejin.im/post/5898388b128fe1006cb943e3)
+
+---
+
+# Flutter
+- [Flutter](https://flutter.dev/)
+- [Flutter中文网](https://flutterchina.club/)
+---
+
+#区块链
+- [区块链技术入门，涉及哪些编程语言？(知乎)](https://www.zhihu.com/question/46729645)
+- [区块链技术指南](https://github.com/yeasy/blockchain_guide/blob/master/SUMMARY.md)
+- [比特币开发者指南](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
+- [区块链入门教程(阮一峰)](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+- [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
 
 ---
 # Git
@@ -120,6 +141,9 @@ MVVM
 - [bang](http://blog.cnbang.net/)
 - [李忠](http://limboy.me/)
 - [Casa Taloyum](https://casatwy.com/)
+- [故胤道长](https://www.jianshu.com/u/8d5b91490ca5)
+- [张星宇](https://bestswifter.com/)
+- [没故事的卓同学](https://www.jianshu.com/u/88a056103c02)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [NSHipster 中文版 (文章出自Mattt 大神)](http://nshipster.cn/)
 - [ObjC 中国](https://store.objccn.io/)
