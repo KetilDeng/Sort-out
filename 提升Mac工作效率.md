@@ -65,9 +65,11 @@
 
 ##### git push
 - git push origin branch_name -f 直接覆盖远程branch_name
+- git push origin --delete branch_name 删除远程分支
 
 ##### git rebase
-- git rebase branch_name
+- git rebase branch_name  把当前分支应用到branch_name
+- git rebase [basebranch] [topicbranch]  把topicbranch应用到basebranch
 - git rebase --abort 终止rebase，回到操作前
 - git rebase -i commit_id 可以看到，reabse -i的作用是用来编辑所有的commit，也就是在push到远程分支之前，我们可以“为所欲为”，可以看到有多个命令可以使用。
 
@@ -85,10 +87,15 @@
 
 ##### git log
 - glog
+- git lg
+- glg
 - git log --stat 查看每次提交的统计
 - git log -p 查看每次提交的差异
 - git log -p -'n' 查看最近n次提交的差异
 - git log --pretty=oneline 单行显示历史提交
+
+##### git status
+- git status 查看那些因包含合并冲突而处于未合并（unmerged）状态的文件
 
 ##### git commit
 - git commit --amend 重新提交(常用于修改描述)
@@ -107,6 +114,9 @@
 - git push origin --tags 推送所有不在远程仓库的标签到远程仓库
 - git tag -d <tagname> 删除tag
 - git push origin --delete tag <tagname> 删除远程tag
+
+- git config --global alias.co checkout 配置别名 git co = git checkout
+- git fetch  抓取远程数据，但不合并 git pull = git fetch + git merge
 
 ## vim
 - o 行首
@@ -180,6 +190,7 @@
 - ssh-add ~/.ssh/xxx  添加私钥
 - 隐藏：defaults write com.apple.finder AppleShowAllFiles false;killall Finder
 - 显示：defaults write com.apple.finder AppleShowAllFiles true;killall Finder
+- pbcopy < ~/.ssh/id_rsa.pub  复制某个文件
 
 ## 链接
 - [Safari 9 (El Capitan): Safari 键盘及其他快捷键](https://support.apple.com/kb/PH21483?locale=zh_CN&viewlocale=zh_CN)

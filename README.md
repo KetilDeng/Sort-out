@@ -56,6 +56,7 @@ MVVM
 - [iOS学习资料整理](https://github.com/Aufree/trip-to-iOS)
 - [掘金翻译计划](https://github.com/xitu/gold-miner)
 - [A sample app by Ash Furrow](https://github.com/AshFurrow/C-41)
+- [ios常用库](http://www.cuishuai.cc/ios/library/)
 
 ---
 # 面试
